@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -56,7 +56,7 @@
     .no {
       background: #ffc2d1;
       color: #b3003b;
-      position: relative; /* default: NOT moving */
+      position: relative;
     }
 
     .moving-no {
@@ -93,7 +93,8 @@
 
 <!-- Background Music -->
 <audio id="bgMusic" loop>
-  <source src="YoungBoy Never Broke Again - Down Chick.mp3" type="audio/mpeg">
+  <source src="https://www.orangefreesounds.com/wp-content/uploads/2021/06/Slow-calm-relaxing-music.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
 
 <!-- Questions 1–4 -->
